@@ -1,0 +1,65 @@
+/* write your CSS here */
+body {
+    background-color: #ff9999;
+    font-family: 'Roboto Slab', serif;
+    padding: 0px;
+}
+
+.opening-L {
+    color: white;
+    float:left;
+    font-size: 25px;
+    line-height: 0px;
+    text-transform: uppercase;
+    width: 120px;
+}
+
+.opening-R {
+    float:left;
+    font-size: 12.9px;
+    line-height:8px;
+    margin-left: 10px;
+    text-align: jutify;
+    width: 250px;
+}
+
+.main {
+    clear: both;
+    font-size: 15px;
+    margin: 2px 0px;
+    text-align: justify;
+    width: 382px;
+}
+
+.key-msg1 {
+    font-family: 'Suez One', serif;
+    font-size: 20px;
+    margin: 2px 0px;
+    width: 382px;
+    word-spacing: 8px;
+}
+
+.key-msg2 {
+    font-family: 'Suez One', serif;
+    font-size: 17px;
+    margin: 2px 0px;
+    width: 382px;
+    word-spacing:2px
+}
+
+.closing-L {
+    float:left;
+    font-size: 11px;
+    margin-right: 10px;
+    width: 230px;
+}
+
+.closing-R {
+    color: white;
+    float:left;
+    font-size: 21px;
+    line-height:4px;
+    padding: 0px;
+    text-transform: uppercase;
+    width: 140px;
+}
